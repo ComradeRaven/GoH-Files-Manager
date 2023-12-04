@@ -1,4 +1,4 @@
-**Call to Arms - Gates of Hell: Ostfront** Files Manager:
+'Call to Arms - Gates of Hell: Ostfront' Files Manager:
 ==============================
 Custom utility I use to manage files of **Call to Arms - Gates of Hell: Ostfront** in my custom mod.
 
