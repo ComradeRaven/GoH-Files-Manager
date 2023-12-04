@@ -1,6 +1,6 @@
 'Call to Arms - Gates of Hell: Ostfront' Files Manager:
 ==============================
-Custom utility I use to manage files of **Call to Arms - Gates of Hell: Ostfront** in my custom mod.
+Custom utility I use to manage files of **Call to Arms - Gates of Hell: Ostfront** in my personal mod.
 
 Features:
 ------------------------------
